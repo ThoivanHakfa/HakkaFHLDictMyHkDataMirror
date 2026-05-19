@@ -1,0 +1,3 @@
+[submodule "lib/KonvertToPOJ"]
+	path = lib/KonvertToPOJ
+	url = https://github.com/PehoejiKesi/KonvertToPOJ.git
